@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930901435499",
+    "project_id": "abiding-bongo-358601",
+    "storage_bucket": "abiding-bongo-358601.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930901435499:android:63fc1f6bf0a94b79ae7d2e",
+        "android_client_info": {
+          "package_name": "com.exemple.tictactoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_zv1rB2LZM61VCM1l5-r8KAdWmcj2qmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
